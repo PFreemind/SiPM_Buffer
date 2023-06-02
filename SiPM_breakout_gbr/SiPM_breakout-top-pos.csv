@@ -1,0 +1,7 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","10u","CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal",93.400000,-117.642500,180.000000,top
+"C2","10u","CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal",93.400000,-78.000000,180.000000,top
+"D1","D_SiPM","AFBR-S4N33C013(3x3mm9bga)",85.200000,-107.755000,180.000000,top
+"D2","D_SiPM","AFBR-S4N33C013(3x3mm9bga)",85.200000,-88.045000,0.000000,top
+"R1","5k","R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal",93.200000,-106.800000,-90.000000,top
+"R2","5k","R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal",93.000000,-82.000000,-90.000000,top

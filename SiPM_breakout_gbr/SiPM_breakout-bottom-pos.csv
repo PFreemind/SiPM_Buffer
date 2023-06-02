@@ -1,0 +1,4 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J1","Conn_01x02_Male","PinHeader_1x02_P2.54mm_Vertical",-79.400000,-108.000000,180.000000,bottom
+"J2","Conn_01x02_Male","PinHeader_1x02_P2.54mm_Vertical",-79.400000,-87.200000,0.000000,bottom
+"J3","Conn_01x02_Female","PinHeader_1x02_P2.54mm_Vertical",-92.800000,-96.925000,180.000000,bottom

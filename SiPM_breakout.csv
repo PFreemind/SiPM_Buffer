@@ -1,0 +1,6 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"D1,D2";"AFBR-S4N33C013(3x3mm9bga)";2;"D_SiPM";;;
+2;"D4,D3";"SiPM_Advansid";2;"D_SiPM";;;
+3;"H2,H1,H1,H2";"MountingHole_3mm";4;"MountingHole";;;
+4;"J2,J1";"PinHeader_1x02_P2.54mm_Vertical";2;"Conn_01x02_Male";;;
+5;"J3";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02_Female";;;
